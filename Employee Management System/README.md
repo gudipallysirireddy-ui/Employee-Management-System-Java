@@ -12,14 +12,14 @@ Employee data is permanently stored using Java File Handling.
 
 #  Features
 
-✅ Add Employee  
-✅ View Employees  
-✅ Search Employee by ID  
-✅ Delete Employee  
-✅ File Handling for Data Storage  
-✅ Menu Driven Application  
-✅ Exception Handling  
-✅ OOP Concepts Implementation  
+ Add Employee  
+ View Employees  
+ Search Employee by ID  
+ Delete Employee  
+ File Handling for Data Storage  
+ Menu Driven Application  
+ Exception Handling  
+ OOP Concepts Implementation  
 
 ---
 
@@ -70,7 +70,7 @@ EmployeeManagementSystem
 
 
 
-# ⚙️ How to Run the Project
+#  How to Run the Project
 
 ## Step 1
 Open the project in VS Code.
