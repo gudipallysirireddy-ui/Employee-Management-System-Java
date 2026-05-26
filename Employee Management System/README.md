@@ -1,6 +1,6 @@
 # Employee Management System using Java
 
-## 📌 Project Overview
+##  Project Overview
 
 Employee Management System is a console-based Java application developed using Core Java concepts.
 
@@ -10,7 +10,7 @@ Employee data is permanently stored using Java File Handling.
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✅ Add Employee  
 ✅ View Employees  
@@ -23,7 +23,7 @@ Employee data is permanently stored using Java File Handling.
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Core Java
 - VS Code
@@ -33,7 +33,7 @@ Employee data is permanently stored using Java File Handling.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 EmployeeManagementSystem
@@ -52,7 +52,7 @@ EmployeeManagementSystem
 
 ---
 
-# 📸 Project Screenshots
+#  Project Screenshots
 
 
 
@@ -88,7 +88,7 @@ java Main
 
 ---
 
-# 📋 Sample Output
+#  Sample Output
 
 ```text
 ===== Employee Management System =====
@@ -104,7 +104,7 @@ Enter Choice:
 
 ---
 
-# 💾 File Handling
+#  File Handling
 
 Employee records are stored inside:
 
@@ -121,7 +121,7 @@ Example:
 
 ---
 
-# 🎯 Concepts Used
+#  Concepts Used
 
 - Classes and Objects
 - Constructors
@@ -134,13 +134,13 @@ Example:
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 Siri Reddy Gudipally
 
 ---
 
-# 📈 Future Enhancements
+#  Future Enhancements
 
 - Add Update Employee Feature
 - Add Login Authentication
